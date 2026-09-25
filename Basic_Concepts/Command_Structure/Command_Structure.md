@@ -10,7 +10,7 @@ A command is an instruction that tells a computer to perform a specific action.
 
 Additionally, many commands are executable programs, while others are built into the shell. Executing a command tells the shell or operating system to perform a specific action.
 
-Example: <span style="color: red;">ping</span> -c 3 192.212.142.32 (The relevant part is highlighted in red.)
+Example: **ping** -c 3 192.212.142.32 (The relevant part is shown in bold.)
 
 ## Options
 
@@ -28,7 +28,7 @@ In many Linux commands, options are placed after the command and before the argu
 
 For example, `ls -al ./`
 
-Example: ping <span style="color: red;">-c</span> 3 192.212.142.32
+Example: ping **-c** 3 192.212.142.32
 
 ## Arguments
 
@@ -40,7 +40,7 @@ For example, if we run `ls` without an argument, it lists the contents of the cu
 
 However, if we specify the location with an argument like `ls ./test/`, it lists the contents of the `test` directory.
 
-Example: ping -c <span style="color: red;">3</span> <span style="color: red;">192.212.142.32</span>
+Example: ping -c 3 **192.212.142.32**
 
 ### Example command breakdown
 
